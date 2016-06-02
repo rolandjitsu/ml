@@ -26,7 +26,7 @@ And some good YouTube videos:
 
 ### Credits
 -----------
-It's to be noted that parts of the implementations have been borrowed from [@swizec](https://github.com/Swizec).
+It's to be noted that parts of the implementations have been borrowed from [Swizec Teller](https://github.com/Swizec).
 
 
 ### Octave
