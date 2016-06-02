@@ -11,6 +11,23 @@ The contents of this repo by week:
 * [Week 5](src/ex4/ex4.pdf) - Neural Networks: Learning
 * [Week 6](src/ex5/ex5.pdf) - Neural Networks: Regularization, Bias vs. Variance
 
+
+### Octave
+----------
+All the exercises are written in [Octave](https://www.gnu.org/software/octave/doc/v4.0.1), a free alternative to Matlab.
+Check out the install instructions:
+* [OS X](http://wiki.octave.org/Octave_for_MacOS_X)
+* [Windows](http://wiki.octave.org/Octave_for_Microsoft_Windows)
+* [Linux](http://wiki.octave.org/Octave_for_GNU/Linux)
+
+
+### Credits
+-----------
+It's to be noted that parts of the implementations have been borrowed from [Swizec Teller](https://github.com/Swizec).
+
+
+### Learning Material
+---------------------
 More learning material can be found at:
 * [CS229](http://cs229.stanford.edu/materials.html) Stanford Course
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -22,17 +39,3 @@ Some good books/papers:
 
 And some good YouTube videos:
 * [Machine Learning](https://www.youtube.com/course?list=ECA89DCFA6ADACE599)
-
-
-### Credits
------------
-It's to be noted that parts of the implementations have been borrowed from [Swizec Teller](https://github.com/Swizec).
-
-
-### Octave
------------
-All the exercises are written in [Octave](https://www.gnu.org/software/octave/doc/v4.0.1), a free alternative to Matlab.
-Check out the install instructions:
-* [OS X](http://wiki.octave.org/Octave_for_MacOS_X)
-* [Windows](http://wiki.octave.org/Octave_for_Microsoft_Windows)
-* [Linux](http://wiki.octave.org/Octave_for_GNU/Linux)
