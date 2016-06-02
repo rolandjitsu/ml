@@ -6,10 +6,10 @@ All of the excercises are actually part of the assignments that you get during t
 
 The contents of this repo by week:
 * [Week 2](src/ex1/ex1.pdf) - Linear Regression
-* [Week 3](src/ex1/ex2.pdf) - Logistic Regression
-* [Week 4](src/ex1/ex3.pdf) - Multiclass Classification & Neural Networks: Classification
-* [Week 5](src/ex1/ex4.pdf) - Neural Networks: Learning
-* [Week 6](src/ex1/ex5.pdf) - Neural Networks: Regularization, Bias vs. Variance
+* [Week 3](src/ex2/ex2.pdf) - Logistic Regression
+* [Week 4](src/ex3/ex3.pdf) - Multiclass Classification & Neural Networks: Classification
+* [Week 5](src/ex4/ex4.pdf) - Neural Networks: Learning
+* [Week 6](src/ex5/ex5.pdf) - Neural Networks: Regularization, Bias vs. Variance
 
 More learning material can be found at:
 * [CS229](http://cs229.stanford.edu/materials.html) Stanford Course
