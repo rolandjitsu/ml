@@ -24,6 +24,11 @@ And some good YouTube videos:
 * [Machine Learning](https://www.youtube.com/course?list=ECA89DCFA6ADACE599)
 
 
+### Credits
+-----------
+It's to be noted that parts of the implementations have been borrowed from [@swizec](https://github.com/Swizec).
+
+
 ### Octave
 -----------
 All the exercises are written in [Octave](https://www.gnu.org/software/octave/doc/v4.0.1), a free alternative to Matlab.
@@ -31,8 +36,3 @@ Check out the install instructions:
 * [OS X](http://wiki.octave.org/Octave_for_MacOS_X)
 * [Windows](http://wiki.octave.org/Octave_for_Microsoft_Windows)
 * [Linux](http://wiki.octave.org/Octave_for_GNU/Linux)
-
-
-### Credits
------------
-It's to be noted that parts of the implementations have been borrowed from [@swizec](https://github.com/Swizec).
