@@ -1,0 +1,32 @@
+### https://github.com/github/gitignore
+
+
+## JetBrains IDEs
+.idea
+
+
+## OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+
+## Direnv
+.envrc
+
+
+## Coursera
+token.mat
+# Exclude files used for submitting code to Coursera
+src/**/lib
+src/**/submit.m
+
+
+## Octave
+octave-workspace
