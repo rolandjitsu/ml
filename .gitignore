@@ -23,9 +23,6 @@ Icon
 
 ## Coursera
 token.mat
-# Exclude files used for submitting code to Coursera
-src/**/lib
-src/**/submit.m
 
 
 ## Octave
