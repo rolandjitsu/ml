@@ -4,12 +4,12 @@
 
 All of the excercises are actually part of the assignments that you get during the course. Before diving in, if you are following the course, try to write your own implementation before you see how it has been implemented here.
 
-The contents of this repo by week:
-* [Week 2](src/ex1/ex1.pdf) - Linear Regression
-* [Week 3](src/ex2/ex2.pdf) - Logistic Regression
-* [Week 4](src/ex3/ex3.pdf) - Multiclass Classification & Neural Networks: Classification
-* [Week 5](src/ex4/ex4.pdf) - Neural Networks: Learning
-* [Week 6](src/ex5/ex5.pdf) - Neural Networks: Regularization, Bias vs. Variance
+The contents of this repo by topic:
+* [Linear Regression](src/ex1/ex1.pdf)
+* [Logistic Regression](src/ex2/ex2.pdf)
+* [Multiclass Classification & Neural Networks: Classification](src/ex3/ex3.pdf)
+* [Neural Networks: Learning](src/ex4/ex4.pdf)
+* [Neural Networks: Regularization, Bias vs. Variance](src/ex5/ex5.pdf)
 
 
 ### Octave
