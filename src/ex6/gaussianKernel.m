@@ -17,10 +17,10 @@ sim = 0;
 %
 
 
-
-
+squared_distance = sum((x1 - x2) .^ 2);
+sim = exp(-(squared_distance / (2 * sigma ^ 2)));
 
 
 % =============================================================
-    
+
 end
