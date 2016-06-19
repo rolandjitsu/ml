@@ -10,6 +10,7 @@ The contents of this repo by topic:
 * [Multiclass Classification & Neural Networks: Classification](src/ex3/ex3.pdf)
 * [Neural Networks: Learning](src/ex4/ex4.pdf)
 * [Neural Networks: Regularization, Bias vs. Variance](src/ex5/ex5.pdf)
+* [SVM](src/ex6/ex6.pdf)
 
 
 ### Octave
