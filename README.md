@@ -37,6 +37,7 @@ Some good books/papers:
 * [Machine Learning for Hackers](http://www.amazon.com/dp/1449303714?tag=inspiredalgor-20)
 * [Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://www.amazon.com/dp/0596529325?tag=inspiredalgor-20)
 * [A Brief Introduction into Machine Learning](https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf)
+* [Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 
 And some good YouTube videos:
 * [Machine Learning](https://www.youtube.com/course?list=ECA89DCFA6ADACE599)
