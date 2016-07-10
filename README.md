@@ -11,6 +11,8 @@ The contents of this repo by topic:
 * [Neural Networks: Learning](src/ex4/ex4.pdf)
 * [Neural Networks: Regularization, Bias vs. Variance](src/ex5/ex5.pdf)
 * [SVM](src/ex6/ex6.pdf)
+* [Unsupervised Learning & Dimensionality Reduction](src/ex7/ex7.pdf)
+* [Anomaly Detection & Recommender Systems](src/ex8/ex8.pdf)
 
 
 ### Octave
